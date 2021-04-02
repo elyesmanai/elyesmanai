@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, I'm [Elyes Manai](http://elyesmanai.github.io)</h1>
+<h1 align="center">Hola 👋, I'm Elyes Manai</h1>
 <h3 align="center">Machine Learning Consultant, Teacher, Startup Mentor and Google Developer Expert on Machine Learning</h3>
 
 
